@@ -1,16 +1,13 @@
-## Hi there 👋
+# Abdulrahman Alamoudi
 
-<!--
-**supeRdaem/supeRdaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity researcher.
 
-Here are some ideas to get you started:
+## Security Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Published Advisories
+
+- **[GHSA-mj3g-7xcc-x4vh](https://github.com/phun-ky/defaults-deep/security/advisories/GHSA-mj3g-7xcc-x4vh)** — Prototype Pollution in `@phun-ky/defaults-deep` via unsafe recursive property merging. CVSS 7.3 (High), CWE-1321. Patched in 2.0.5.
+
+## Contact
+
+- GitHub: [@supeRdaem](https://github.com/supeRdaem)
